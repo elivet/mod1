@@ -1,6 +1,8 @@
 # mod1
  Adaptation &amp; creativity, Algorithms &amp; AI, Graphics, Group &amp; interpersonal
 
+note finale :
+111 / 100
 
 Ce projet consiste à réaliser une simulation terrestre puis hydrodynamique.
 A partir d’un jeu de données très réduit, vous allez dans un premier temps extrapoler une
